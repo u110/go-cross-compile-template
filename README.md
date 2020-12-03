@@ -1,0 +1,1 @@
+# go-cross-compile-template
